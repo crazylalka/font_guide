@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'Circe';
+    src: url('../fonts/circe/Circe-Regular.eot');
+    src: local('Circe'), local('Circe-Regular'), url('../fonts/circe/Circe-Regular.eot?#iefix') format('embedded-opentype'), url('../fonts/circe/Circe-Regular.woff') format('woff'), url('../fonts/circe/Circe-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Segoe UI';
+    src: url('../fonts/segeo/SegoeUI.eot');
+    src: local('Segoe UI'), local('SegoeUI'), url('../fonts/segeo/SegoeUI.eot?#iefix') format('embedded-opentype'), url('../fonts/segeo/SegoeUI.woff') format('woff'), url('../fonts/segeo/SegoeUI.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Good Vibes Pro';
+    src: url('../fonts/GoodVibesPro/GoodVibesPro.eot');
+    src: local('Good Vibes Pro'), local('GoodVibesPro'), url('../fonts/GoodVibesPro/GoodVibesPro.eot?#iefix') format('embedded-opentype'), url('../fonts/GoodVibesPro/GoodVibesPro.woff') format('woff'), url('../fonts/GoodVibesPro/GoodVibesPro.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('../fonts/Raleway/Raleway-Regular.eot');
+    src: local('Raleway'), local('Raleway-Regular'), url('../fonts/Raleway/Raleway-Regular.eot?#iefix') format('embedded-opentype'), url('../fonts/Raleway/Raleway-Regular.woff') format('woff'), url('../fonts/Raleway/Raleway-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h3 {
+    margin: auto;
+}
+
+p {
+    color: darkcyan;
+}
+
+.circe {
+    font-family: 'Circe';
+}
+
+.segoe {
+    font-family: 'Segoe UI';
+}
+
+.good {
+    font-family: 'Good Vibes Pro';
+}
+
+.raleway {
+    font-family: 'Raleway';
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
